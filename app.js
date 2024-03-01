@@ -1,4 +1,6 @@
 
+import React from "react";
+import ReactDOM from "react-dom/client"
 // javascript code for Hello World
 
 // const heading = document.createElement("h1");
@@ -56,9 +58,9 @@ const parent = React.createElement("div",
                     [
                         React.createElement("div",{id:"child1"}),
                         [React.createElement("h1",{id:"heading"},"This is first child div!"),
-                        React.createElement("h3",{id:"head2"},"This is first child")],
+                        React.createElement("h3",{id:"head2"},"This is NITK.")],
                         React.createElement("div",{id:"child2"}),
-                        [React.createElement("h1",{id:"heading"},"This is new second child!"),
+                        [React.createElement("h1",{id:"heading"},"This is new NITK."),
                         React.createElement("h3",{id:"head2"},"This is second child div")]
                     ]
                 );
