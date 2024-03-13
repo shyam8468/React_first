@@ -1,6 +1,31 @@
 # Namaste React 
 
 
+
+# APPS Stracture
+
+
+/*
+* header   
+*    - LOGO
+*   - Nav item
+* Body
+*    - Search
+*   - RestaurantContainer
+*       - img
+*       - Name of resta
+*       - star rating
+*       - cuisine
+*       - delery time
+
+* Footer
+*   - Copywright
+*   - Links
+*   - Address 
+*   - Contact information
+
+*/
+
 # Parcel
 
 - Dev Build
@@ -22,3 +47,14 @@
 - Different ev and production Bundles
 - by parcel you can host your app on https
 - React is making app fast but other than react Bundler also doing so many thing to app become faster
+
+
+
+
+
+# React Hooks
+
+(Normal JS utility Functions)
+- useState()  super powerfull state variable
+- useEffect() 
+

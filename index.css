@@ -42,3 +42,48 @@
 .res-logo {
   width: 100%;
 }
+
+.filter-btn{
+  margin: 10px;
+  cursor: pointer;
+}
+
+.shimmer-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shimmer-card{
+  height: 400;
+  width: 200;
+  margin: 10px;
+  background-color: #f0f0f0f0;
+}
+
+.login {
+  padding: 0 20px;
+  margin-right: 5px;
+  color: rgb(104, 85, 224);
+  background-color: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(104, 85, 224, 1);
+}
+.login:hover{
+  cursor: pointer;
+  
+}
+
+button:hover {
+  color: white;
+  box-shadow: 0 0 20px rgba(104, 85, 224, 0.6);
+  background-color: rgba(104, 85, 224, 1);
+}
+
+.filter {
+  display: flex;
+}
+.res-link{
+  text-decoration: none;
+  color: #282c3f;
+  
+}
+
